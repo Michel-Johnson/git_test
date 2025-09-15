@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "stdio.h": "c"
+    },
+    "idf.pythonInstallPath": "/usr/bin/python3"
+}
